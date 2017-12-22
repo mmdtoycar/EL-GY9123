@@ -6,3 +6,6 @@ The main purpose of this project is training a model to predict the winner of co
 There are two parts of this project. 
 * The first part is a warm-up. In this part, we will train a model to predict if a Pokemon is 'Legendary' according to its properties by SVM.
 * In the second part, we would like to construct a model to predict the combat result as we mentioned above. We will try different ways to train the data in order to make the predicting accuracy as high as possible.
+
+## Jupyter Notebook Report
+[Jupyter Notebook Report]
