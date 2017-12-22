@@ -8,4 +8,4 @@ There are two parts of this project.
 * In the second part, we would like to construct a model to predict the combat result as we mentioned above. We will try different ways to train the data in order to make the predicting accuracy as high as possible.
 
 ## Jupyter Notebook Report
-[Jupyter Notebook Report]
+[Jupyter Notebook Report](https://github.com/mmdtoycar/EL-GY9123/blob/master/Final%20Project%20EL-GY%209123.ipynb)
