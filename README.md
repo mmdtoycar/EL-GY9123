@@ -1,6 +1,6 @@
 # EL-GY9123
 ## Project Repository for EL9123 - Machine Learning
-Team Members: Wei Lin (wl1505), Mingdi Mao (mmd)
+Team Members: Wei Lin (wl1505), Mingdi Mao (mm8688)
 
 ## Project Introduction
 Pokemon series created by Nintendo is one of the most popular game series in the world. People can capture Pokemon in the game world and train them to combat with others' Pokemon. There are thousands of Pokemon with totally different properties and of course, some of them are stronger than the others.
