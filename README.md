@@ -1,4 +1,7 @@
 # EL-GY9123
+## Project Repository for EL9123 - Machine Learning
+Team Members: Wei Lin (wl1505), Mingdi Mao (mmd)
+
 ## Project Introduction
 Pokemon series created by Nintendo is one of the most popular game series in the world. People can capture Pokemon in the game world and train them to combat with others' Pokemon. There are thousands of Pokemon with totally different properties and of course, some of them are stronger than the others.
 The main purpose of this project is training a model to predict the winner of combats between Pokemons. We downloaded the Pokemon data and combat data from https://www.kaggle.com/sekarmg/pokemon/data which include 800 Pokemon's information with their properties and 50000 combat results.
